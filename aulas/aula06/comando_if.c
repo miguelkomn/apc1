@@ -49,6 +49,5 @@ int main() {
         printf("Sua mencao eh SR\n");
     }
 
-
     return 0;
 }
